@@ -1,0 +1,23 @@
+{
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "Listening for audio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gijslebesque/listener.git"
+  },
+  "author": "Gijs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gijslebesque/listener/issues"
+  },
+  "homepage": "https://github.com/gijslebesque/listener#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "python-shell": "^1.0.6"
+  }
+}
